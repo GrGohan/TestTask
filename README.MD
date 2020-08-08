@@ -8,9 +8,9 @@
 <code>java -jar TestTask.jar fields.properties</code><br>
 <br>
 В папке <b>out</b> содержится три заготовленных файла с тестовыми значениями полей класса:<br>
-fields.properties - все поля заполнены значениями;<br>
-fields2.properties - некоторые поля закомменчены для проверки заполняемости значениями по умолчанию;<br>
-fields3(error).properties - в поле number допущена ошибка для проверки логирования.<br>
+<code>fields.properties</code> - все поля заполнены значениями;<br>
+<code>fields2.properties</code> - некоторые поля закомменчены для проверки заполняемости значениями по умолчанию;<br>
+<code>fields3(error).properties</code> - в поле number допущена ошибка для проверки логирования.<br>
 
 <h4>Пример файла *.properties:</h4>
 <code># Имя параметра = значение параметра</code><br>
