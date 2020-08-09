@@ -12,6 +12,7 @@
 <code>fields2.properties</code> - некоторые поля закомменчены для проверки заполняемости значениями по умолчанию;<br>
 <code>fields3(error).properties</code> - в поле number допущена ошибка для проверки логирования.<br>
 
+
 <h4>Пример файла *.properties:</h4>
 <code># Имя параметра = значение параметра</code><br>
 <code>com.mycompany.name = SuperSoft</code><br>
